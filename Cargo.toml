@@ -1,0 +1,8 @@
+[workspace]
+
+members = [
+    "client-server",
+    "call-c-from-rust",
+    "call-rust-from-python",
+    "call-rust-from-c/include/bug_tracker"
+]

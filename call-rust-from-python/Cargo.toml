@@ -1,0 +1,12 @@
+[package]
+name = "call-rust-from-python"
+version = "0.1.0"
+edition = "2018"
+
+[dependencies]
+pyo3 = { features = ["extension-module"], git = "https://github.com/pyo3/pyo3" }
+rand = "0.8"
+
+[lib]
+name = "bit_flipper"
+crate-type = ["cdylib"]
