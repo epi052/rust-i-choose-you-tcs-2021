@@ -26,4 +26,6 @@ reasons to integrate Rust into existing projects, including increases to speed a
 
 ## Slides 
 
-!TODO - upload slides after talk 
+The slides have a lot of animations, so it's simplest to share them out via Google Slides.
+
+[Rust I Choose You! slides](https://docs.google.com/presentation/d/1nnQHEamhx1om6tUya3505uF4MiCHluzhJNjI1dSCVy8/edit?usp=sharing)
