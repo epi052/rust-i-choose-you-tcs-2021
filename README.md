@@ -7,7 +7,7 @@ The talk was presented on October 30, 2021 during the [Texas Cyber Summit](https
 
 ## Recorded Talk
 
-!TODO - link to recording 
+!TODO - link to recording once posted
 
 ## Abstract 
 
